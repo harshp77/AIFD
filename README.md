@@ -33,7 +33,7 @@ Required libraries can be installed using
 Clone the project
 
 ```bash
-  git clone https://github.com/Louis3797/awesome-readme-template.git
+  git clone https://github.com/harshp77/AIFD.git
 ```
 
 Go to the project directory
@@ -51,17 +51,30 @@ Install dependencies
 <!-- Result -->
 ## :eyes: Result
 
-Selected Features
+Selected Features After Light GB model Regression
 
 ![image](https://user-images.githubusercontent.com/76607486/197850009-26c30fad-1a2b-4e41-b7a2-e3d32a7ac7e2.png )
 
+Visualized Trend in Nearly all the sensor
 
+![image](https://user-images.githubusercontent.com/76607486/197852095-1bdf884e-9fc0-4eb3-9c5f-eaf54c4012c6.png)
 
-```python
+model performance on shift of 1 time-stamp
 
-```
+![image](https://user-images.githubusercontent.com/76607486/197852992-43c9d74a-a05d-4e34-b50b-d20a307a7bb7.png)
 
+<!-- Roadmap -->
+## :compass: Roadmap
 
+* [x] Create a Baseline Model
+* [ ] Extract Monitoring Index for fault prognosis
+
+<!-- Contact -->
+## :handshake: Contact
+
+Your Name - [Harsh Pandey]() - harsh20101@iiitnr.edu.in
+
+Project Link: [https://github.com/harshp77/AIFD](https://github.com/harshp77/AIFD)
 
 
 
