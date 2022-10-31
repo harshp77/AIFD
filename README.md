@@ -82,7 +82,7 @@ model performance on shift of 1 time-stamp
 
 ![image](https://user-images.githubusercontent.com/76607486/197852992-43c9d74a-a05d-4e34-b50b-d20a307a7bb7.png)
 
-Anomoly Detection based on Isolation Forest with 0.04 contamination factor
+Anomaly Detection based on Isolation Forest with 0.04 contamination factor
 
 ![anu](https://user-images.githubusercontent.com/76607486/199090093-ff5c05bd-efc1-4201-8b21-5f589a9ebcf6.png)
 
