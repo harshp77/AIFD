@@ -48,12 +48,15 @@ Install dependencies
   pip install -r requirements.txt
 ```
 
-<!-- Result -->
+<!-- Feature Visualization -->
 ## :eyes: Result
 
 Selected Features After Light GB model Regression
 
 ![image](https://user-images.githubusercontent.com/76607486/197850009-26c30fad-1a2b-4e41-b7a2-e3d32a7ac7e2.png )
+
+<!-- Result -->
+## :eyes: Result
 
 Visualized Trend in Nearly all the sensor
 
