@@ -70,7 +70,7 @@ Selected Features After Light GB model Regression
 <!-- Result -->
 ## :eyes: Result
 
-Converted to daily frequency wiht marked ouliers
+Converted to daily frequency with marked outliers
 
 ![outl](https://user-images.githubusercontent.com/76607486/199090528-619ef7c4-7803-4b35-b68f-53c38c6cdb40.png)
 
