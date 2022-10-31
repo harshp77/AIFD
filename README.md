@@ -52,8 +52,16 @@ Install dependencies
 ## :eyes: Result
 
 Plot of Features Into Consideration
+
 ![Overview](https://user-images.githubusercontent.com/76607486/199088463-f15170d4-2878-4b21-89c3-dbaf68035e5e.png)
 
+Seasonality Decomposition 
+
+![sea](https://user-images.githubusercontent.com/76607486/199089417-c4488e6d-78da-4d3c-af7d-2bb07d56b2c2.png)
+
+PCA Components 
+
+![pca](https://user-images.githubusercontent.com/76607486/199089798-84feac7c-2a38-4733-b539-db5d092eca5f.png)
 
 Selected Features After Light GB model Regression
 
@@ -62,6 +70,10 @@ Selected Features After Light GB model Regression
 <!-- Result -->
 ## :eyes: Result
 
+Converted to daily frequency wiht marked ouliers
+
+![outl](https://user-images.githubusercontent.com/76607486/199090528-619ef7c4-7803-4b35-b68f-53c38c6cdb40.png)
+
 Visualized Trend in Nearly all the sensor
 
 ![image](https://user-images.githubusercontent.com/76607486/197852095-1bdf884e-9fc0-4eb3-9c5f-eaf54c4012c6.png)
@@ -69,6 +81,10 @@ Visualized Trend in Nearly all the sensor
 model performance on shift of 1 time-stamp
 
 ![image](https://user-images.githubusercontent.com/76607486/197852992-43c9d74a-a05d-4e34-b50b-d20a307a7bb7.png)
+
+Anomoly Detection based on Isolation Forest with 0.04 contamination factor
+
+![anu](https://user-images.githubusercontent.com/76607486/199090093-ff5c05bd-efc1-4201-8b21-5f589a9ebcf6.png)
 
 <!-- Roadmap -->
 ## :compass: Roadmap
