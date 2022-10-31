@@ -51,6 +51,10 @@ Install dependencies
 <!-- Feature Visualization -->
 ## :eyes: Result
 
+Plot of Features Into Consideration
+![Overview](https://user-images.githubusercontent.com/76607486/199088463-f15170d4-2878-4b21-89c3-dbaf68035e5e.png)
+
+
 Selected Features After Light GB model Regression
 
 ![image](https://user-images.githubusercontent.com/76607486/197850009-26c30fad-1a2b-4e41-b7a2-e3d32a7ac7e2.png )
